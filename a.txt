@@ -15,4 +15,4 @@ git reset HEAD file
 git reset HEAD file
 git reset HEAD file
 git reset HEAD file
-git reset HEAD file
+git reset HEAD file 2222
