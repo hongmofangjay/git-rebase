@@ -1,7 +1,7 @@
 merge test master eeee
 merge test master eeee
-merge test
-merge test
+merge test hot-fix eeee
+merge test hot-fix eeee
 merge test
 merge test
 merge test
