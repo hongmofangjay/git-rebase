@@ -4,8 +4,8 @@ git reset：用于将当前HEAD复位到指定状态。一般用于撤消之前�
 
 git rm -f file_path
 删除暂存区和分支上的文件，同时工作区也不需要
-
+ccccccccccccccccccccccccccccccccccccccccc
 git rm --cached file_path
-删除暂存区或分支上的文件, 但工作区需要使用, 只是不希望被版本控制
-
-git reset HEAD 回退暂存区里的文件  cccc
+删除暂存区或分支上的文件, 但工作区需要使用, 只是不希望被版本控制cccccccccccccccccccccccc
+dddddddddddddsccccccccccccccc
+git reset HEAD 回退暂存区里的文件  ccccdddddd
